@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @corn4code
-- 👀 I’m interested in anything coding right now
 - 🌱 I’m currently learning python

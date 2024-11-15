@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @corn4code
-- 🌱 I’m currently learning python
+- 👋 Hi, I’m Cornelius
